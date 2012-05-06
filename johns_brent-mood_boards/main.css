@@ -16,10 +16,6 @@ header {
 }
 body {
 	background-color:#2266a3;
-	margin: 20px, 10px, 150px, 95px;
-	font:12px verdana, sans-serif;
-	color:#000;
-	padding-top: 50px;
 }
 #wrapper {
 	width: 800px;
